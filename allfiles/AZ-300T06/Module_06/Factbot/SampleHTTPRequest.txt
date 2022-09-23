@@ -1,0 +1,9 @@
+POST /knowledgebases/cf94be06-ff14-43eb-b23c-edc79529fe1e/generateAnswer
+Host: https://qa-factbot-kb-mm2607.azurewebsites.net/qnamaker
+Authorization: EndpointKey cab388da-0401-44c6-ad6f-5fcb2ba8923b
+Content-Type: application/json
+{"question":"<Your question>"}
+
+Key: cab388da-0401-44c6-ad6f-5fcb2ba8923b
+Knowledgebase id: cf94be06-ff14-43eb-b23c-edc79529fe1e
+Hostname: qa-factbot-kb-mm2607.azurewebsites.net/qnamaker
